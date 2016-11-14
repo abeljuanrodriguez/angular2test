@@ -21,7 +21,7 @@ export class AppComponent{
 			new Peliculas(1,"Kill Bill","Tarantino",2012),
 			new Peliculas(2,"La verdad duele","Will Smith",2016),
 			new Peliculas(3,"El señor de los anillas","Descon",null),
-			new Peliculas(4,"Uno de los nuestros","Coeb",2014),
+			new Peliculas(4,"Uno de los vuestros","Coeb",2014),
 			new Peliculas(5,"Don Jon","Jordan Levit",2015)];
 	}
 
